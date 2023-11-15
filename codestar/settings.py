@@ -32,6 +32,7 @@ ALLOWED_HOSTS = [
     '8000-jkirkby95-djangoblog-52nasoaesq.us2.codeanyapp.com',
     'codestar123.herokuapp.com',
     'localhost',
+    'codestar123-879650ec48ed.herokuapp.com',
 ]
 
 
